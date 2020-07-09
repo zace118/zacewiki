@@ -1,0 +1,44 @@
+#mainBox {
+  background: #f8f9fa;
+  border: 1px solid #a2a9b1;
+  padding: 5px 15px;
+  width: fit-content;
+}
+
+#title {
+  text-align: center;
+  font-size: 125%;
+  font-weight: bold;
+}
+
+#picWrapper {
+  text-align: center;
+}
+
+.myPic {
+  max-width: 220px;
+  max-height: 261px;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.butts {
+  width: fit-content;
+}
+
+#colName {
+  width: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.colBody {
+  text-align: right;
+}
+
+tr > td {
+  font-size: small;
+  text-align: right;
+}
